@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm yuebaix</h1>
+<h3 align="center">A passionate backend developer from China</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuebaix&label=Profile%20views&color=0e75b6&style=flat" alt="yuebaix" /> </p>
+
 - 🔭 I’m currently working on [tirnanog](https://github.com/yuebaix/tirnanog)
 - 🌱 I’m currently learning **vue**
 - 👨‍💻 All of my projects are available at [https://github.com/yuebaix](https://github.com/yuebaix)
@@ -7,10 +11,6 @@
 - 📄 Know about my experiences [https://blog.yuebaix.com](https://blog.yuebaix.com)
 - ⚡ Fun fact **I'm familiar with several code languages.ie java,javascript,shell,python,golang,php**
 
-<!---
-yuebaix/yuebaix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <div>
   <span><img align="center" width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=yuebaix&theme=highcontrast" /></span>
   <span><img align="center" width="332px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuebaix&theme=highcontrast&layout=compact" /></span>
