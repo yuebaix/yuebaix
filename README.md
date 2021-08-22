@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @yuebaix
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🔭 I’m currently working on [tirnanog](https://github.com/yuebaix/tirnanog)
+- 🌱 I’m currently learning **vue**
+- 👨‍💻 All of my projects are available at [https://github.com/yuebaix](https://github.com/yuebaix)
+- 📝 I regularly write articles on [https://blog.yuebaix.com](https://blog.yuebaix.com)
+- 💬 Ask me about **java**
+- 📫 How to reach me **yuebaix@outlook.com**
+- 📄 Know about my experiences [https://blog.yuebaix.com](https://blog.yuebaix.com)
+- ⚡ Fun fact **I'm familiar with several code languages.ie java,javascript,shell,python,golang,php**
 
 <!---
 yuebaix/yuebaix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
