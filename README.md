@@ -28,4 +28,7 @@
   <a href="https://github.com/yuebaix/pangu">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=pangu" />
   </a>
+  <a href="https://github.com/yuebaix/hongjun">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=hongjun" />
+  </a>
 </div>
