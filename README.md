@@ -69,9 +69,6 @@
   <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuebaix&theme=highcontrast&layout=compact&langs_count=10" /></span>
 </div>
 <div>
-  <a href="https://github.com/yuebaix/yuebaix.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=yuebaix.github.io" />
-  </a>
   <a href="https://github.com/yuebaix/tirnanog">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=tirnanog" />
   </a>
@@ -80,6 +77,9 @@
   </a>
   <a href="https://github.com/yuebaix/hongjun">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=hongjun" />
+  </a>
+<a href="https://github.com/yuebaix/luya">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=luya" />
   </a>
 </div>
 
