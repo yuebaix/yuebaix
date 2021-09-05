@@ -3,7 +3,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=yuebaix&label=Profile%20views&color=0e75b6&style=flat" alt="yuebaix" /></p>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{yuebaix}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
-<img align="right" src="https://z3.ax1x.com/2021/09/05/hfeVFU.gif" alt="yuebaix" />
+<img align="right" height="220px" src="https://z3.ax1x.com/2021/09/05/hfeVFU.gif" alt="yuebaix" />
 
 - 🔭 I’m currently working on [tirnanog](https://github.com/yuebaix/tirnanog)
 - 🌱 I’m currently learning **vue**
@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I'm familiar with several code languages.ie java,javascript,shell,python,golang,php**
 
 <div>
-  <span><img align="center" width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=yuebaix&theme=highcontrast&show_icons=true" /></span>
+  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=yuebaix&theme=highcontrast&show_icons=true" /></span>
   <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuebaix&theme=highcontrast&layout=compact&langs_count=10" /></span>
 </div>
 <div>
