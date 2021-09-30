@@ -89,8 +89,14 @@
   <a href="https://github.com/yuebaix/pangu">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=pangu" />
   </a>
-    <a href="https://github.com/yuebaix/nezha">
+  <a href="https://github.com/yuebaix/fuxi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=fuxi" />
+  </a>
+  <a href="https://github.com/yuebaix/nezha">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nezha" />
+  </a>
+  <a href="https://github.com/yuebaix/jiuzhou">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=jiuzhou" />
   </a>
   <a href="https://github.com/yuebaix/hongjun">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=hongjun" />
@@ -98,7 +104,7 @@
   <a href="https://github.com/yuebaix/luya">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=luya" />
   </a>
-    <a href="https://github.com/yuebaix/nvwa">
+  <a href="https://github.com/yuebaix/nvwa">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nvwa" />
   </a>
 </div>
