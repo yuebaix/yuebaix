@@ -101,11 +101,14 @@
   <a href="https://github.com/yuebaix/hongjun">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=hongjun" />
   </a>
+  <a href="https://github.com/yuebaix/nvwa">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nvwa" />
+  </a>
   <a href="https://github.com/yuebaix/luya">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=luya" />
   </a>
-  <a href="https://github.com/yuebaix/nvwa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nvwa" />
+  <a href="https://github.com/yuebaix/YuebaixBlog">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=YuebaixBlog" />
   </a>
 </div>
 
